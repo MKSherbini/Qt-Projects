@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Dr. Stone/vlcsnap-2020-01-07-02h16m38s389.png</file>
+        <file>Dr. Stone/vlcsnap-2020-01-07-02h16m49s017.png</file>
+        <file>Icons/exit.png</file>
+        <file>Icons/about.png</file>
+    </qresource>
+    <qresource prefix="/json">
+        <file>settings.json</file>
+    </qresource>
+</RCC>
